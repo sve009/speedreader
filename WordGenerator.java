@@ -4,38 +4,47 @@ import java.io.IOException;
 
 public class WordGenerator {
 
-        private Scanner scanner;
-        private int words;
-        private int sentences;
+  private Scanner scanner;
+  private int words;
+  private int sentences;
 
-        public WordGenerator(String filename) throws IOException {
-                this.scanner = new Scanner(new File(filename));
-                this.words = 0;
-                this.sentences = 0;
-        }
 
-        public boolean hasNext() {
-                return this.scanner.hasNext();
-        }
+  // WordGenerator is a wrapper for a scanner that tracks the number of words and sentences scanned
+  // in
 
-        public String next() {
-                String word = scanner.next();
+  public WordGenerator(String filename) throws IOException {
+    this.scanner = new Scanner(new File(filename));
+    this.words = 0;
+    this.sentences = 0;
+  }
 
-                int last = word.length() - 1;
-                if (word.indexOf('.') == last || word.indexOf('?') == last || word.indexOf('!') == last) {
-                        this.sentences++;
-                }
+  // All methods below are adaptations of regular scanner methods to fit this implementation
 
-                this.words++;
+  public boolean hasNext() {
+    return this.scanner.hasNext();
+  }
 
-                return word;
-        }
+  public String next() {
+    String word = scanner.next();
 
-        public int getWordCount() {
-                return this.words;
-        }
+    int last = word.length() - 1;
+    if (word.indexOf('.') == last || word.indexOf('?') == last || word.indexOf('!') == last) {
+      System.out.println(sentences);
+      this.sentences++;
+    }
 
-        public int getSentenceCount() {
-                return this.sentences;
-        }
+    this.words++;
+
+    return word;
+  }
+
+  // These return the new fields added to the scanner class
+
+  public int getWordCount() {
+    return this.words;
+  }
+
+  public int getSentenceCount() {
+    return this.sentences;
+  }
 }
