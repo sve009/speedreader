@@ -1,14 +1,20 @@
 Nina: 350 wpm
+Sean: Control
 1. Where was Lamar from?
 Nina: Compton, CA
+Sean: Compton, CA
 2. What was Lamar's stage name?
 Nina: I don't know
+Sean: K-Dot
 3. What was Lamar's major label debut album?
 Nina: Butterfly
+Sean: Good m.a.a.d. City
 4. Name two of the musical elements the article says were incorporated into To Pimp a Butterfly.
 Nina: Drums, Vocals
+Sean: Jazz, Funk
 5. What award did Lamar win in 2015?
 Nina: Grammy
+Sean: Grammy
 
 Answers
 ////////
@@ -19,3 +25,4 @@ Answers
 5. Grammy
 
 Nina: 2/5
+Sean: 5/5

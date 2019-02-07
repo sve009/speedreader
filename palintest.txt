@@ -1,14 +1,25 @@
 Nina: 250 wpm
+Sean: 500 wpm
+
 1. What type of company was Palin the chair for?
 Nina: Fox
+Sean: Oil and Gas
+
 2. What political movement has Palin endorsed?
 Nina: Tea Party 
+Sean: Tea Party
+
 3. What was the name of Palins TV show?
 Nina: Amazing America
+Sean: Sarah Palin Hour
+
 4. What is the name of Palins news network?
 Nina: The Sarah Palin channel
+Sean: The Sarah Palin Hour
+
 5. When did Palins political career begin?
 Nina: 1993
+Sean: 2003
 
 Answers
 ///////
@@ -19,3 +30,4 @@ Answers
 5. 1992
 
 Nina: 3/5
+Sean: 2/5
