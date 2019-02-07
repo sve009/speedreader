@@ -1,8 +1,21 @@
-1. Graph nodes or points are more commonly referred to as what?
+Nina: control
+Sean: 350 wpm
+
+1. Graph nodes or points are more commonly referred to as what?`
+Nina: Vertices
+Sean: Vertices
 2. What is a graph connection between two vertices called?
+Nina: Edge
+Sean: Edge
 3. What is the type of graph where a connection can be "one-way" called?
+Nina: unconnected
+Sean: undefined
 4. What metaphor is used to discuss directed and undirected graphs?
+Nina: Shaking hands
+Sean: Party with hand shaking
 5. What field of mathematics mentioned in the article studies graphs?
+Nina: Graph theory
+Sean: Graph theory
 
 Answers
 ////////
@@ -12,3 +25,6 @@ Answers
 3. Directed graph
 4. Shaking hands at a party
 5. Discrete mathematics (Don't accept graph theory)
+
+Nina: 3/5
+Sean: 3/5

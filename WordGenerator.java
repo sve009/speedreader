@@ -29,7 +29,6 @@ public class WordGenerator {
 
     int last = word.length() - 1;
     if (word.indexOf('.') == last || word.indexOf('?') == last || word.indexOf('!') == last) {
-      System.out.println(sentences);
       this.sentences++;
     }
 
