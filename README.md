@@ -7,10 +7,10 @@ I reccomend viewing the plaintext version of this document so the table looks pr
 # Participants
 Nina Kouchi - [kouchini]
 Sean Collins - [collinss2]
-Oliver Willett - [willetto@grinnell.edu
+Oliver Willett - [willetto@grinnell.edu]
 
 # Testing
-Full questions with word for word answers of participants can be found in the ---test.txt and ----results.txt files.
+Full questions with word for word answers of participants can be found in the ---test.txt and ---results.txt files.
 
 
 __Results__
@@ -18,11 +18,10 @@ __Results__
 Speed   |250|350|500|Control|  
 Nina    |  3|  2|  3|      3|  
 Sean    |  2|  3|  2|      5|   
+Oliver  |  2|  0|  2|      1|
 
 __Summary__
-For the first two participants tested there didn't seem to be a significant diversion from the control as the speed was raised.
-This leads to the conclusion that the speedreader works relatively well, as it did not significantly impact comprehension.
-It is worth noting that Sean already had considerable background information about Kendrick Lamar, which skews his control score.
+For the first two participants tested there didn't seem to be a significant diversion from the control as the speed was raised. The third participant demonstrated a negligible improvement in comprehension. This leads to the conclusion that the speedreader works relatively well, as it did not significantly impact comprehension. It is worth noting that Sean already had considerable background information about Kendrick Lamar, which skews his control score.
 
 # Sources
 https://en.wikipedia.org/wiki/Kendrick_Lamar  
