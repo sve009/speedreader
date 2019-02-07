@@ -1,6 +1,9 @@
 # speedreader
 A java project to help read faster
 
+# Note
+I reccomend viewing the plaintext version of this document so the table looks pretty.
+
 # Participants
 Nina Kouchi - [kouchini]
 Sean Collins - [collinss2]
@@ -15,7 +18,10 @@ Speed   |250|350|500|Control|
 Nina    |  3|  2|  3|      3|  
 Sean    |  2|  3|  2|      5|   
 
-
+__Summary__
+For the first two participants tested there didn't seem to be a significant diversion from the control as the speed was raised.
+This leads to the conclusion that the speedreader works relatively well, as it did not significantly impact comprehension.
+It is worth noting that Sean already had considerable background information about Kendrick Lamar, which skews his control score.
 
 # Sources
 https://en.wikipedia.org/wiki/Kendrick_Lamar  
