@@ -1,0 +1,20 @@
+Oliver: 350 words per minute
+1. Graph nodes or points are more commonly referred to as what?`
+Oliver: I don't know
+2. What is a graph connection between two vertices called?
+Oliver: a line
+3. What is the type of graph where a connection can be "one-way" called?
+Oliver: I don't know
+4. What metaphor is used to discuss directed and undirected graphs?
+Oliver: I don't know
+5. What field of mathematics mentioned in the article studies graphs?
+Oliver: I don't know
+
+Answers
+////////
+
+1. Vertices
+2. Edges
+3. Directed graph
+4. Shaking hands at a party
+5. Discrete mathematics (Don't accept graph theory)
