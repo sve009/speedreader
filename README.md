@@ -5,9 +5,9 @@ A java project to help read faster
 I reccomend viewing the plaintext version of this document so the table looks pretty.
 
 # Participants
-Nina Kouchi - [kouchini]
-Sean Collins - [collinss2]
-Oliver Willett - [willetto@grinnell.edu]
+Nina Kouchi - [kouchini]  
+Sean Collins - [collinss2]  
+Oliver Willett - [willetto@grinnell.edu]  
 
 # Testing
 Full questions with word for word answers of participants can be found in the ---test.txt and ---results.txt files.
